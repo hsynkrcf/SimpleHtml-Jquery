@@ -2,7 +2,7 @@
 Mouse ile yakalamaya çalışılan, her denemede sayıp sonucu gösteren çok basit 
 jquery kullanarak yaptığım mini oyun.
 
-![Catch Me Photo](https://resimag.com/p1/e1d2f3be525.png)
+http://huseyinkaracif.me/catchme/  <--- Buradan oynayabilirsiniz..
 
 ## "CV FORM"
 Html kullanarak basit cv form
